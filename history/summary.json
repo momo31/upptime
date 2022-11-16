@@ -22,19 +22,19 @@
     "url": "https://www.haccp.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.haccp.or.kr.ico",
     "slug": "haccp",
-    "status": "down",
-    "uptime": "80.81%",
-    "uptimeDay": "71.75%",
-    "uptimeWeek": "80.81%",
-    "uptimeMonth": "80.81%",
-    "uptimeYear": "80.81%",
-    "time": 9493,
-    "timeDay": 11442,
-    "timeWeek": 9493,
-    "timeMonth": 9493,
-    "timeYear": 9493,
+    "status": "degraded",
+    "uptime": "79.48%",
+    "uptimeDay": "69.29%",
+    "uptimeWeek": "79.48%",
+    "uptimeMonth": "79.48%",
+    "uptimeYear": "79.48%",
+    "time": 10355,
+    "timeDay": 12033,
+    "timeWeek": 10355,
+    "timeMonth": 10355,
+    "timeYear": 10355,
     "dailyMinutesDown": {
-      "2022-11-16": 407
+      "2022-11-16": 442
     }
   },
   {
