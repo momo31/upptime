@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1089,
-    "timeDay": 1024,
-    "timeWeek": 1089,
-    "timeMonth": 1089,
-    "timeYear": 1089,
+    "time": 1069,
+    "timeDay": 1009,
+    "timeWeek": 1069,
+    "timeMonth": 1069,
+    "timeYear": 1069,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.haccp.or.kr.ico",
     "slug": "haccp",
     "status": "degraded",
-    "uptime": "77.35%",
-    "uptimeDay": "65.17%",
-    "uptimeWeek": "77.35%",
-    "uptimeMonth": "77.35%",
-    "uptimeYear": "77.35%",
-    "time": 11549,
-    "timeDay": 12867,
-    "timeWeek": 11549,
-    "timeMonth": 11549,
-    "timeYear": 11549,
+    "uptime": "65.60%",
+    "uptimeDay": "37.25%",
+    "uptimeWeek": "65.60%",
+    "uptimeMonth": "65.60%",
+    "uptimeYear": "65.60%",
+    "time": 11762,
+    "timeDay": 14440,
+    "timeWeek": 11762,
+    "timeMonth": 11762,
+    "timeYear": 11762,
     "dailyMinutesDown": {
-      "2022-11-16": 502
+      "2022-11-17": 72,
+      "2022-11-16": 832
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 856,
-    "timeWeek": 971,
-    "timeMonth": 971,
-    "timeYear": 971,
+    "time": 928,
+    "timeDay": 844,
+    "timeWeek": 928,
+    "timeMonth": 928,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   }
 ]
