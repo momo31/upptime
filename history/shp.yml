@@ -1,7 +1,7 @@
 url: https://fresh.haccp.or.kr/shp/shp/guest/main/mainIndex.do
-status: up
-code: 200
-responseTime: 1130
-lastUpdated: 2023-06-18T23:06:50.466Z
+status: degraded
+code: 502
+responseTime: 21201
+lastUpdated: 2023-06-19T00:01:38.735Z
 startTime: Tue Nov 15 2022 05:35:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
