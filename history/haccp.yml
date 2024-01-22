@@ -1,7 +1,7 @@
 url: https://www.haccp.or.kr
-status: up
-code: 200
-responseTime: 1353
-lastUpdated: 2024-01-21T23:07:35.497Z
+status: down
+code: 400
+responseTime: 1762
+lastUpdated: 2024-01-22T14:45:08.008Z
 startTime: 2022-11-15T05:35:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
