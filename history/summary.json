@@ -35,16 +35,16 @@
     "url": "https://www.haccp.or.kr",
     "icon": "https://icons.duckduckgo.com/ip3/www.haccp.or.kr.ico",
     "slug": "haccp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "98.94%",
     "uptimeWeek": "98.76%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "99.52%",
-    "time": 2161,
-    "timeDay": 1582,
-    "timeWeek": 1578,
-    "timeMonth": 1616,
+    "uptimeYear": "99.53%",
+    "time": 2158,
+    "timeDay": 1542,
+    "timeWeek": 1563,
+    "timeMonth": 1619,
     "timeYear": 1710,
     "dailyMinutesDown": {
       "2024-02-05": 15,
@@ -123,8 +123,7 @@
       "2023-07-11": 17,
       "2023-07-10": 44,
       "2023-07-09": 18,
-      "2023-07-06": 27,
-      "2023-07-02": 16
+      "2023-07-06": 27
     }
   },
   {
