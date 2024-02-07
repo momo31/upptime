@@ -1,7 +1,7 @@
 url: https://fresh.haccp.or.kr
-status: up
-code: 200
-responseTime: 1201
-lastUpdated: 2024-02-06T23:07:08.686Z
+status: down
+code: 503
+responseTime: 1782
+lastUpdated: 2024-02-07T10:57:18.284Z
 startTime: 2022-11-15T05:05:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
