@@ -11,10 +11,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.83%",
     "time": 1241,
-    "timeDay": 1241,
-    "timeWeek": 1300,
-    "timeMonth": 1142,
-    "timeYear": 1273,
+    "timeDay": 1100,
+    "timeWeek": 1288,
+    "timeMonth": 1138,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2024-02-07": 15,
       "2023-09-22": 25,
@@ -27,8 +27,7 @@
       "2023-06-04": 32,
       "2023-05-02": 39,
       "2023-02-13": 38,
-      "2023-02-11": 26,
-      "2023-02-10": 56
+      "2023-02-11": 26
     }
   },
   {
@@ -38,17 +37,16 @@
     "slug": "haccp",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.53%",
-    "time": 2117,
-    "timeDay": 1865,
-    "timeWeek": 1699,
-    "timeMonth": 1648,
-    "timeYear": 1697,
+    "time": 2108,
+    "timeDay": 1897,
+    "timeWeek": 1700,
+    "timeMonth": 1650,
+    "timeYear": 1696,
     "dailyMinutesDown": {
-      "2024-02-09": 9,
       "2024-02-08": 17,
       "2024-02-07": 15,
       "2024-02-05": 15,
@@ -125,7 +123,8 @@
       "2023-07-19": 16,
       "2023-07-13": 40,
       "2023-07-11": 17,
-      "2023-07-10": 44
+      "2023-07-10": 44,
+      "2023-07-09": 18
     }
   },
   {
@@ -140,9 +139,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1145,
-    "timeDay": 1020,
-    "timeWeek": 1015,
-    "timeMonth": 917,
+    "timeDay": 959,
+    "timeWeek": 1009,
+    "timeMonth": 915,
     "timeYear": 1162,
     "dailyMinutesDown": {
       "2023-09-22": 24,
